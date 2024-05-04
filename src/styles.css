@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+.editor {
+    border: 1px solid #dddddd;
+    padding: 40px;
+}
